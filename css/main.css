@@ -1,0 +1,51 @@
+
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: bordfeaturedStyle;
+}
+
+body{
+  font-family: 'Lato', sans-serif;
+  color: #747704;
+  font-weight: 300;
+}
+
+hr {
+  display: block;
+  border-width: 4px;
+  border-color: #BCBBBB;
+  margin-bottom: 3%;
+
+}
+
+.text-muted{
+  color: #BCBBBB;
+}
+
+.text-thin{
+  font-weight: 100;
+}
+
+.firstName{
+  font-size: 70px;
+}
+
+.profession{
+  font-size:25px;
+}
+
+.featuredStyle{
+  font-size: 40px;
+  margin-left: 1%
+}
+
+.descripStyle{
+  font-size: 60px;
+}
+
+.githubLink{
+  margin-bottom: 40%;
+  font-size: 20px;
+}
